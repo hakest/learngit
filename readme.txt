@@ -3,4 +3,4 @@ wrote by xiongbing for learning git
 do change
 HE HE HA
 creating a new branch
-create a new feature branch hehe
+Creating a new branch is quick and simple.
